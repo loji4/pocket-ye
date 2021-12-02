@@ -1,5 +1,8 @@
 body {
     background-image: url("https://vid.alarabiya.net/images/2016/11/21/8cd58a41-980e-4672-bb14-46935cbe9911/8cd58a41-980e-4672-bb14-46935cbe9911_16x9_1200x676.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
 
 }
 
