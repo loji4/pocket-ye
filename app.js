@@ -22,7 +22,4 @@ btn ()
 // async function inside event listener
 
 //tasks: 
-// * remove 'quote' word 
 // * remove curly braces 
-// * make button bigger 
-// * change font 
