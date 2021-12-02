@@ -7,7 +7,8 @@ function btn (e) {
     .then(newjson => {
         // converts Javascript object into a string 
         const dataString = JSON.stringify(newjson)
-        const newDataString = dataString.replace('quote',"")
+        const newDataString = dataString.replace('"quote"',"")
+    
         // USE A FUNCTION TO REMOVE
         document.querySelector('.click-me').innerHTML=newDataString
     })

@@ -1,10 +1,14 @@
 body {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgJTTZkDCNCNyh5v5dRlTraGZbPaFY_Tdf0Q&usqp=CAU");
+    background-image: url("https://vid.alarabiya.net/images/2016/11/21/8cd58a41-980e-4672-bb14-46935cbe9911/8cd58a41-980e-4672-bb14-46935cbe9911_16x9_1200x676.jpg");
 
 }
 
 .click-me {
     font-size: 20px;
-    font-family:'Roboto Mono', monospace;;
+    font-family: 'Roboto Mono', monospace;    
     margin-top: 10px;
+}
+
+.wrapper {
+    text-align: center;
 }
